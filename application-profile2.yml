@@ -1,0 +1,5 @@
+data:
+  value: profile 2 data
+other:
+  other-data: profile other data
+  update: true
